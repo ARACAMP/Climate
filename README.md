@@ -1,8 +1,6 @@
 # Climate Hawaii
 
-Climate analysis using SQLAlchemy (sqlite) & Flask 
-
-Python, SQLAlchemy ORM, SQLite, Pandas, Matplotlib, Flask (JSON API)
+Climate analysis using Pandas, Matplotlib, SQLAlchemy & Flask
 
 Data Preparation and Engineering
 
