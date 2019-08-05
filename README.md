@@ -1,4 +1,4 @@
-# Climate Hawai
+# Climate Hawaii
 
 Climate analysis using SQLAlchemy (sqlite) & Flask 
 
